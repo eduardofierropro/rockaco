@@ -17,11 +17,12 @@ Este ejemplo ha sido programado en 6 horas mientras charlábamos y comentábamos
 * [Github](https://github.com/eduardofierropro)
 * [Instagram](https://instagram.com/eduardofierro.pro)
 * [Twitter](https://twitter.com/edfierropro)
+* [Discord](https://discord.gg/t4Txush)
 
 ## Master/Cursos donde sor profesor 📚
 Soy profesor en la Escuela Trazos donde impartimos Cursos y Másters sobre desarrollo web con una bolsa de trabajo con Alta Empleabilidad. ¡Píde información sobre los cursos donde soy profesor desde este enlace!
 
-👉[https://trazos.net/contacto-eduardofierro](https://trazos.net/contacto-eduardofierro)
+👉[http://colaboracion.eduardofierro.pro](http://colaboracion.eduardofierro.pro)
 
 ## Licencia 📄
 GNU General Public License v3.0
