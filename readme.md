@@ -6,6 +6,10 @@ Si te ha gustado o te ha servido coméntalo en un directo o sígueme por Twitch 
 ## Tiempo de programación ⏰
 Este ejemplo ha sido programado en 6 horas mientras charlábamos y comentábamos cosas en Twitch (https://www.twitch.tv/eduardofierropro)
 
+## URL para ver el resultado
+Para ver proyecto en directo puedes verlo aquí [https://eduardofierropro.github.io/rockaco/](https://eduardofierropro.github.io/rockaco/)
+
+
 ## Uso 🚀
 ¡Mira el código, modifícalo y disfruta!
 
