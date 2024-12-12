@@ -5,7 +5,6 @@
 Imitación de la web de Rocka.co para Ordenador en un directo de Twitch (https://www.twitch.tv/eduardofierropro)
 
 [![Original website](https://img.shields.io/static/v1?label=&message=Original%20Site&color=4d94b3&style=for-the-badge)](https://rocka.co/)
-[![Live Site](https://img.shields.io/static/v1?label=&message=Live%20Site&color=6cccb4&style=for-the-badge)](https://eduardofierropro.github.io/rockaco/)
 [![Github Repository](https://img.shields.io/static/v1?label=&message=Github%20Repository&color=000000&style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduardofierropro/rockaco)
 
 ## Tecnologías usadas
